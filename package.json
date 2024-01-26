@@ -1,6 +1,6 @@
 {
-  "name": "componentlify",
-  "version": "1.0.1",
+  "name": "@akuviitanen/componentlify",
+  "version": "1.0.3",
   "description": "Simple react components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
