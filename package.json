@@ -1,5 +1,5 @@
 {
-  "name": "@akuviitanen/componentlify",
+  "name": "@kuukuna/react-components",
   "version": "1.0.5",
   "description": "Simple react components",
   "main": "dist/cjs/index.js",
